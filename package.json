@@ -1,0 +1,26 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.1",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.0"
+  },
+  "description": "To run this application you must go to your terminal and cd into the web-server directory. Then cd into the src directory. Then run \"node app.js\" or, if you have nodemon installed, \"nodemon app.js\". The aplication should go live on your local machine on port 3000. To access the application on that port, go to your browser and type in \"localhost:3000\"",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorLeon1/weather-app-deploy-hbs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juniorLeon1/weather-app-deploy-hbs/issues"
+  },
+  "homepage": "https://github.com/juniorLeon1/weather-app-deploy-hbs#readme"
+}
